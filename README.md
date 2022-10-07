@@ -66,6 +66,8 @@
   
   #### Видео (92m43s)  
   [Ввод/вывод, исключения и перегрузка операторов](https://youtube.com/playlist?list=PLQsYkTzyA74BK8Cy9tieaaGy4NVjqbeHm)    
+  ### Тест
+  [https://docs.google.com/forms/d/e/1FAIpQLSeSrrOwS9h6RyfrBg8TaBqzoEaspZ5D-a2y16qz_AkgxoY43A/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeSrrOwS9h6RyfrBg8TaBqzoEaspZ5D-a2y16qz_AkgxoY43A/viewform)
   #### Теория  
   [Быстрая сортировка](https://drive.google.com/file/d/1OntQKFn94NznMwKYTKYUAYrC6IT5l3UK/view?usp=sharing)  
   [Сортировка слиянием](https://drive.google.com/file/d/1IYBrGDXXwDFrF19l_6W4ZFB3Rei1C4na/view?usp=sharing)  
@@ -91,3 +93,21 @@
   #### Доп.материалы (опционально)  
   [Краткий курс по сортировке кучей](https://leetcode.com/explore/learn/card/heap/)  
 </details>
+
+<details>
+  <summary>  
+  
+  ### Неделя 06  
+  </summary>  
+  
+  #### Видео (116m36s)  
+  [Тестирование и отладка](https://youtube.com/playlist?list=PLQsYkTzyA74BkBZ-z5j-SHFxUa4Cqx5k8)    
+  #### Теория  
+  [Алгоритмы на графах и топологическая сортировка](https://drive.google.com/file/d/1mK4lM56xa_LHd4OsLvcOpx0GwyISbeVZ/view?usp=sharing)  
+  #### Задачи  
+  [Алгоритмы на графах](tasks/W06.md)   
+  #### Доп.материалы (опционально)  
+  [Краткий курс по графам](https://leetcode.com/explore/featured/card/graph/)  
+</details>
+
+
