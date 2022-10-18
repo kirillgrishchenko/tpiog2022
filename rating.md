@@ -30,4 +30,12 @@
 ## Week 03
 | nickname               | questions | tasks |
 | :--------------------- |:---------:|:-----:|
+| DianaTsikhanovich      | 10        | 0     | // 197, 227, 266, 270, 143, 149, 155, 159, 160, 163
 |                        |           |       |
+
+## Week 04
+| nickname               | questions | tasks |
+| :--------------------- |:---------:|:-----:|
+| DianaTsikhanovich      | 1         | 0     | // 166 
+|                        |           |       |
+
