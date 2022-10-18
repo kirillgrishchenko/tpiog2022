@@ -34,6 +34,7 @@
 | yashahao               | 10        | 0     |
 | daragormash            | 8         | 1     |
 | DianaTsikhanovich      | 10        | 0     | // 197, 227, 266, 270, 143, 149, 155, 159, 160, 163
+| seregaqeqeeq           | 5         | 0     | // 022, 023, 024, 131, 132
 |                        |           |       |
 
 ## Week 04
