@@ -33,6 +33,7 @@
 | TIMASK                 | 0         | 2     |
 | yashahao               | 10        | 0     |
 | daragormash            | 8         | 1     |
+| DianaTsikhanovich      | 10        | 0     | // 197, 227, 266, 270, 143, 149, 155, 159, 160, 163
 |                        |           |       |
 
 ## Week 04
@@ -40,7 +41,7 @@
 | :--------------------- |:---------:|:-----:|
 | yashahao               | 8         | 0     |
 | daragormash            | 0         | 2     |
+| DianaTsikhanovich      | 1         | 0     | // 166 
 |                        |           |       |
 |                        |           |       |
-
 
