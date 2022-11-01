@@ -43,6 +43,17 @@
 | yashahao               | 8         | 0     |
 | daragormash            | 0         | 2     |
 | DianaTsikhanovich      | 1         | 0     | // 166 
-|                        |           |       |
+| OlgaSitnikova          | 10        |       | // 224, 392, 393, 394, 395, 396, 397, 398, 399, 518
 |                        |           |       |
 
+## Week 05
+| nickname               | questions | tasks |
+| :--------------------- |:---------:|:-----:|
+| OlgaSitnikova          | 10        |       | // 520, 521, 522, 524, 530, 531, 534, 535, 536, 537 
+|                        |           |       |
+
+## Week 06
+| nickname               | questions | tasks |
+| :--------------------- |:---------:|:-----:|
+| OlgaSitnikova          | 3         |       | // 538, 539, 540 
+|                        |           |       |
