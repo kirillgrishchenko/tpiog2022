@@ -9,21 +9,20 @@ j = l,k;
 V – вектор поправок в измеренные значения элементов сети;
 W – вектор невязок условных уравнений.
 При этом коэффициенты aij условных уравнений поправок определяются по формуле:
-https://latex.codecogs.com/svg.image?a_{ij}=\frac{\delta&space;\phi&space;_{j}X_{i}}{\delta&space;X_{i}}
+<img src="https://latex.codecogs.com/svg.image?a_{ij}=\frac{\delta&space;\phi&space;_{j}X_{i}}{\delta&space;X_{i}}" title="https://latex.codecogs.com/svg.image?a_{ij}=\frac{\delta&space;\phi&space;_{j}X_{i}}{\delta&space;X_{i}}" />
 
 а невязки уравнений – по формуле:
 
-https://latex.codecogs.com/svg.image?w_{j}=\phi&space;_{j}(x_{1},x_{2},...,&space;x_{n})
+<img src="https://latex.codecogs.com/svg.image?w_{j}=\phi&space;_{j}(x_{1},x_{2},...,&space;x_{n})" title="https://latex.codecogs.com/svg.image?w_{j}=\phi&space;_{j}(x_{1},x_{2},...,&space;x_{n})" />
 где xi (i = 1, n) – измеренные значения элементов геодезических построений.
 
 При известной весовой матрице Р вначале вычисляют обратную весовую матрицу Q = P^-1, а затем от системы условных уравнений переходят к системе нормальных уравнений:
 
-https://latex.codecogs.com/svg.image?(AQA^{T})K&plus;W=0
-
+<img src="https://latex.codecogs.com/svg.image?(AQA^{T})K&plus;W=0" title="https://latex.codecogs.com/svg.image?(AQA^{T})K&plus;W=0" />
 Определив коррелаты 
-https://latex.codecogs.com/svg.image?K=-(AQA^{T})W 
+<img src="https://latex.codecogs.com/svg.image?K=-(AQA^{T})W&space;" title="https://latex.codecogs.com/svg.image?K=-(AQA^{T})W " />
 вычисляют поправки
-https://latex.codecogs.com/svg.image?V&space;=&space;QA^TK
+<img src="https://latex.codecogs.com/svg.image?V&space;=&space;QA^TK" title="https://latex.codecogs.com/svg.image?V&space;=&space;QA^TK" />
 и уравненные значения измеренных элементов сети x* = x + v,
 
 где х* – вектор уравненных значений;
