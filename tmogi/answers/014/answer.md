@@ -20,7 +20,7 @@ W – вектор невязок условных уравнений.
 
 <img src="https://latex.codecogs.com/svg.image?(AQA^{T})K&plus;W=0" title="https://latex.codecogs.com/svg.image?(AQA^{T})K&plus;W=0" />
 Определив коррелаты 
-<img src="https://latex.codecogs.com/svg.image?K=-(AQA^{T})W&space;" title="https://latex.codecogs.com/svg.image?K=-(AQA^{T})W " />
+<img src="https://latex.codecogs.com/svg.image?K=-(AQA^{T})^-1W&space;" title="https://latex.codecogs.com/svg.image?K=-(AQA^{T})W " />
 вычисляют поправки
 <img src="https://latex.codecogs.com/svg.image?V&space;=&space;QA^TK" title="https://latex.codecogs.com/svg.image?V&space;=&space;QA^TK" />
 и уравненные значения измеренных элементов сети x* = x + v,
