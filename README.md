@@ -6,6 +6,9 @@
 [Лаптев В.В. С++ Объектно-ориентированное программирование](https://drive.google.com/file/d/1XX328815qJdR23imp7Jl9GeP22nW-OgS/view?usp=sharing)  
 [Система контроля версий git](https://drive.google.com/file/d/1ygcYTCnFJcJcnP_4OoUOxFT9iBT8le-w/view?usp=sharing)
 
+## Оформление  
+[ttps://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
+
 <details>
   <summary>  
   
@@ -94,4 +97,49 @@
   [Краткий курс по сортировке кучей](https://leetcode.com/explore/learn/card/heap/)  
 </details>
 
+<details>
+  <summary>  
+  
+  ### Неделя 06  
+  </summary>  
+  
+  #### Видео (116m36s)  
+  [Тестирование и отладка](https://youtube.com/playlist?list=PLQsYkTzyA74BkBZ-z5j-SHFxUa4Cqx5k8)    
+  #### Теория  
+  [Алгоритмы на графах и топологическая сортировка](https://drive.google.com/file/d/1mK4lM56xa_LHd4OsLvcOpx0GwyISbeVZ/view?usp=sharing)  
+  #### Задачи  
+  [Алгоритмы на графах](tasks/W06.md)   
+  #### Доп.материалы (опционально)  
+  [Краткий курс по графам](https://leetcode.com/explore/featured/card/graph/)  
+</details>
+
+<details>
+  <summary>  
+  
+  ### Неделя 07  
+  </summary>  
+  
+  #### Видео (85m24s)  
+  [Распределение кода по файлам](https://youtube.com/playlist?list=PLQsYkTzyA74C8n6Xn2cPBUt0jwU5hCeb5)    
+  #### Теория   
+  [Двоичные деревья (курс на leetcode)](https://leetcode.com/explore/learn/card/data-structure-tree/)  
+  #### Задачи  
+  [Двоичные деревья](tasks/W07.md)   
+
+</details>
+
+<details>
+  <summary>  
+  
+  ### Неделя 08  
+  </summary>  
+  
+  #### Видео (103m16s)  
+  [Итераторы, алгоритмы и контейнеры](https://youtube.com/playlist?list=PLQsYkTzyA74DZW-Lmb431BlTx9aFr75XJ)    
+  #### Теория   
+  [Деревья с произвольным числом потомков (курс на leetcode)](https://leetcode.com/explore/learn/card/n-ary-tree/)      
+  #### Задачи  
+  [Деревья](tasks/W08.md)   
+
+</details>
 
